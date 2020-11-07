@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <path d="M0 0H60V60H0z" transform="translate(-690 -1298) translate(542 1251) translate(148 47)"/>
+                        </g>
+                        <g stroke="#111">
+                            <g stroke-linecap="square" stroke-width="2">
+                                <g>
+                                    <path d="M38 0L44 0 44 29 25.335 29M6 29L0 29 0 0 21 0" transform="translate(-690 -1298) translate(542 1251) translate(148 47) translate(7 10) translate(0 8)"/>
+                                </g>
+                            </g>
+                            <g fill="#000" fill-rule="nonzero">
+                                <path d="M8 0C3.589 0 0 3.589 0 8s3.589 8 8 8 8-3.589 8-8-3.589-8-8-8zm0 15c-3.86 0-7-3.14-7-7s3.14-7 7-7 7 3.14 7 7-3.14 7-7 7z" transform="translate(-690 -1298) translate(542 1251) translate(148 47) translate(7 10) translate(22)"/>
+                                <path d="M8.038 4L7 4 7 8.363 10.266 11 11 10.408 8.038 8.016z" transform="translate(-690 -1298) translate(542 1251) translate(148 47) translate(7 10) translate(22)"/>
+                            </g>
+                            <g fill="#000" fill-rule="nonzero">
+                                <g>
+                                    <path d="M17.648 4.908h-.221V1.596c0-.88-.717-1.596-1.6-1.596H1.6C.718 0 0 .716 0 1.596v10.41c0 .88.718 1.596 1.6 1.596h14.228c.882 0 1.599-.716 1.599-1.596V8.694h.221c.195 0 .352-.157.352-.35V5.258c0-.193-.157-.35-.352-.35zm-.351.701v2.384H13.64c-.658 0-1.194-.535-1.194-1.192 0-.657.536-1.192 1.194-1.192h3.656zm-.573 6.397c0 .493-.402.894-.896.894H1.599c-.494 0-.896-.4-.896-.894V1.596c0-.493.402-.894.896-.894h14.229c.494 0 .896.4.896.894v3.312H13.64c-1.046 0-1.897.849-1.897 1.893s.851 1.893 1.897 1.893h3.083v3.312z" transform="translate(-690 -1298) translate(542 1251) translate(148 47) translate(7 10) translate(7 26)"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

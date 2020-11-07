@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-1078 -4554) translate(0 4174) translate(1078 380)">
+                        <rect width="54.603" height="65" x="6.776" y="1" stroke="#000" stroke-width="2" rx="8"/>
+                        <rect width="65" height="14.172" x="1" y="26.414" fill="#FFF" stroke="#000" stroke-width="2" rx="7.086"/>
+                        <text fill="#000" font-family="Poppins-Regular, Poppins" font-size="12" transform="rotate(45 13.356 32.828)">
+                            <tspan x="8.907" y="33.328">+</tspan>
+                        </text>
+                        <text fill="#000" font-family="Poppins-Regular, Poppins" font-size="12" transform="rotate(45 23.458 33.027)">
+                            <tspan x="19.009" y="33.527">+</tspan>
+                        </text>
+                        <text fill="#000" font-family="Poppins-Regular, Poppins" font-size="12" transform="rotate(45 33.63 33.027)">
+                            <tspan x="29.18" y="33.527">+</tspan>
+                        </text>
+                        <text fill="#000" font-family="Poppins-Regular, Poppins" font-size="12" transform="rotate(45 43.467 33.027)">
+                            <tspan x="39.017" y="33.527">+</tspan>
+                        </text>
+                        <path stroke="#000" stroke-linecap="square" d="M51.983 35.655L56.09 35.655"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
